@@ -89,8 +89,8 @@
   
   Атрибуты файла м
 </details>
-<a name="file_execute"></a>
+
 <details>
-  <summary>👉 Исполнение файлов </summary>
+  <summary>👉 <a name="file_execute"></a>Исполнение файлов </summary>
  
 </details>
