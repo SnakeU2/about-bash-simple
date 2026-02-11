@@ -8,4 +8,9 @@
 
 2. [Фреймворк oh-my-bash](https://github.com/ohmybash/oh-my-bash)
 
-3. [vimrc](https://google.com)
+Что это: расширение и удобство использования bash.
+Зачем: больше информации о вашем проекте, его статусе git, ускоренный ввод команд.
+
+
+
+3. [vimrc](https://github.com/SnakeU2/about-bash-simple/blob/master/vimrc.gz)
