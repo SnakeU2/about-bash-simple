@@ -7,3 +7,5 @@
    Весь репозиторий клонировать не надо, лучше всего скачать 1-2 кокретных шрифта и распаковать в папку ~/.fonts После чего сделать LogOut - LogIn
 
 2. [Фреймворк oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+
+3. [vimrc](https://google.com)
